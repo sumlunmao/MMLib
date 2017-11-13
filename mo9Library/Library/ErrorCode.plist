@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10011004</key>
+	<string>回复不能只有表情～不说点什么？</string>
+	<key>10012008</key>
+	<string>昵称不能只有表情～</string>
+	<key>10013006</key>
+	<string>内容不能全部为emoji</string>
+	<key>10013005</key>
+	<string>标题不能全部为emoji</string>
+	<key>10013004</key>
+	<string>你操作的太快…休息一下再试吧！</string>
+	<key>10011003</key>
+	<string>你操作的太快…休息一下再试吧！</string>
+	<key>10013003</key>
+	<string>帖子已经不翼而飞…</string>
+	<key>10011002</key>
+	<string>楼层失踪了！</string>
+	<key>10010001</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>10010002</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>10010003</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>10012007</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>10012003</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>10012006</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>404</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>401</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>405</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>400</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>502</key>
+	<string>服务器开了个小差，请再试一次</string>
+	<key>1001</key>
+	<string>参数有误</string>
+	<key>1002</key>
+	<string>验证失败</string>
+	<key>1003</key>
+	<string>服务器异常</string>
+	<key>10051006</key>
+	<string>合同生成中，请稍后重试</string>
+	<key>10051007</key>
+	<string>协议生成中，请稍后重试</string>
+</dict>
+</plist>

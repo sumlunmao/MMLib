@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ServerType</key>
+	<dict>
+		<key>qianjiujiu</key>
+		<dict>
+			<key>dev</key>
+			<string>http://192.168.1.62:8180/cockApi/api/cock/v1</string>
+			<key>clone</key>
+			<string>http://192.168.1.62:8180/cockApi/api/cock/v1</string>
+			<key>pre</key>
+			<string></string>
+			<key>product</key>
+			<string></string>
+		</dict>
+		<key>lubuting</key>
+		<dict>
+			<key>dev</key>
+			<string></string>
+			<key>clone</key>
+			<string></string>
+			<key>pre</key>
+			<string></string>
+			<key>product</key>
+			<string></string>
+		</dict>
+		<key>account</key>
+		<dict>
+			<key>dev</key>
+			<string>https://new.mo9.com/sheepApi/api/guard/v1</string>
+			<key>clone</key>
+			<string>https://new.mo9.com/sheepApi/api/guard/v1</string>
+			<key>pre</key>
+			<string></string>
+			<key>product</key>
+			<string></string>
+		</dict>
+		<key>promote</key>
+		<dict>
+			<key>dev</key>
+			<string>https://bkcln.mo9.com/monkeyApi/api/monkey/v1</string>
+			<key>clone</key>
+			<string>https://bkcln.mo9.com/monkeyApi/api/monkey/v1</string>
+			<key>pre</key>
+			<string></string>
+			<key>product</key>
+			<string>https://monkey.mo9.com/monkeyApi/api/monkey/v1</string>
+		</dict>
+	</dict>
+	<key>DefaultType</key>
+	<integer>0</integer>
+</dict>
+</plist>

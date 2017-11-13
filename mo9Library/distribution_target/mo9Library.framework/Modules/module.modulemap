@@ -1,0 +1,6 @@
+framework module mo9Library {
+  umbrella header "mo9Library.h"
+
+  export *
+  module * { export * }
+}

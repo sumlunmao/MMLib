@@ -1,0 +1,3 @@
+github "rs/SDWebImage"
+github "AFNetworking/AFNetworking" ~> 3.0
+github "SVProgressHUD/SVProgressHUD"

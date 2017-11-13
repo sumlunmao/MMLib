@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TabVC</key>
+	<array>
+		<dict>
+			<key>storyboardName</key>
+			<string></string>
+			<key>className</key>
+			<string>ViewController</string>
+			<key>title</key>
+			<string>点点</string>
+			<key>images</key>
+			<dict>
+				<key>image_on</key>
+				<string>\u{e61b}</string>
+				<key>image_off</key>
+				<string>\u{e619}</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Login</key>
+	<dict>
+		<key>storyboardName</key>
+		<string>Login_FSD</string>
+		<key>className</key>
+		<string>Mo9LoginViewController</string>
+	</dict>
+</dict>
+</plist>
